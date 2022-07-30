@@ -1,3 +1,5 @@
+#ignore below files
+
 *.php
 *.txt
 *.class
