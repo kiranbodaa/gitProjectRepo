@@ -1,0 +1,11 @@
+*.php
+*.txt
+*.class
+*.obj
+*.js
+
+*.jpeg
+*.jip
+*.log
+[abc].php
+!first.php
